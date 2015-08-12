@@ -8,6 +8,9 @@ gem 'jquery-rails',         '4.0.3'
 gem 'turbolinks',           '2.3.0'
 gem 'jbuilder',             '2.2.3'
 gem 'sdoc',                 '0.4.0', group: :doc
+gem 'compass-rails', github: 'Compass/compass-rails', branch: 'master'
+gem 'sprockets'
+gem 'apropos'
 
 group :development, :test do
   gem 'sqlite3',     '1.3.9'

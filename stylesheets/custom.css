@@ -1,0 +1,6 @@
+/* line 4, ../sass/custom.scss */
+.hero {
+  apropos-bg-variants: "hero.jpg";
+  background-size: auto 100%;
+  background-position: 50%;
+}
